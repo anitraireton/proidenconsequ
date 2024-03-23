@@ -1,0 +1,1 @@
+prepend(...elements: Element[]): this;
